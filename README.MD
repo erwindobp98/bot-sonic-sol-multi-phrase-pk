@@ -18,7 +18,7 @@ npm install
 
 ### 3. Konfigurasi .env File
 
-buat file .env di root projek
+edit file .env dengan notepad atau run nano .env
 
 ```bash
 SEED_PHRASES=["your seed phrase 1", "your seed phrase 2"]
