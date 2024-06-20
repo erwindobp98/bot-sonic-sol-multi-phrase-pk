@@ -21,8 +21,7 @@ npm install
 edit file .env dengan notepad atau run nano .env
 
 ```bash
-SEED_PHRASES=["your seed phrase 1", "your seed phrase 2"]
-PRIVATE_KEYS=["your private key 1", "your private key 2"]
+nano.env
 ```
 
 ### 4. Run script
