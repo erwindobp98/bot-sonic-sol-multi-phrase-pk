@@ -21,7 +21,7 @@ npm install
 edit file .env dengan notepad atau run nano .env
 
 ```bash
-nano.env
+nano .env
 ```
 
 ### 4. Run script
